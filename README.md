@@ -2,6 +2,7 @@
 
 ### Date created
 13 July 2023 by Vinh
+Vinh Pham Ngoc
 
 ### Project Title
 Project: Post Your Work on GitHub
