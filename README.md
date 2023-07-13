@@ -2,8 +2,8 @@
 
 ### Date created
 13 July 2023 by Vinh
-Vinh Pham Ngoc
-vinhphamfakemail@gmail.com
+Vinh Pham
+vinhphamfakemail2@gmail.com
 
 ### Project Title
 Project: Post Your Work on GitHub
